@@ -1,0 +1,15 @@
+# Ignore the Python virtual environment
+venv/
+
+# Ignore the folder with your personal documents
+my_documents/
+
+# Ignore the generated ChromaDB database
+chroma_db/
+
+# Ignore Python's cache files
+__pycache__/
+*.pyc
+
+# Ignore macOS specific files
+.DS_Store
